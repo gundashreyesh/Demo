@@ -4,4 +4,8 @@ class Launch
    {  
         //some code
     }
+   void m2()
+   {
+       //some code2
+   } 
 }
